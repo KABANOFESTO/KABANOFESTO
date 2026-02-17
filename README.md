@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**KABANOFESTO/KABANOFESTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Kabano Festo**,  
+a Software Developer based in Rwanda.
 
-Here are some ideas to get you started:
+I design and build products from idea to production.  
+If I can imagine it, I prototype it, ship it, and iterate on it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+**Frontend:**  
+JavaScript, React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
+
+**Backend:**  
+Spring Boot, Django, Node.js, NestJS, Express, Fastify  
+
+**Cloud:**  
+Kubernetes, Docker  
+
+**Deployment:**  
+AWS, Zomro, Nginx, Ubuntu  
+
+**Tools:**  
+Figma, Apple Notes, Procreate (iPad)
+
+---
+
+### Projects
+
+- 70+ public projects (and many more private ones)  
+- Check out my pinned repositories
+
+---
+
+### Philosophy
+
+Always building.  
+Always shipping.
+
+
