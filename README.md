@@ -17,6 +17,7 @@ If I can imagine it, I prototype it, ship it, and iterate on it.
 **Cloud:**  Kubernetes, Docker  
 
 **Tools:**  
+
 Figma, Apple Notes, Procreate (iPad)
 
 ### Projects
