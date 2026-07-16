@@ -12,7 +12,9 @@ If I can imagine it, I prototype it, ship it, and iterate on it.
 
 **Frontend:**  JavaScript, React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
 
-**Backend:**  Spring Boot, Django, Node.js, NestJS, Express, Fastify  
+**Backend:**  Spring Boot, Django, Node.js, NestJS, Express, Fastify 
+
+**Mobile Application(Apps):**  Kotlin, Flutter, React Native 
 
 **Cloud:**  Kubernetes, Docker  
 
