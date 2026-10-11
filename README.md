@@ -28,6 +28,10 @@ Figma, Apple Notes, Procreate (iPad)
 
 - Check out my pinned repositories
 
+### Favorite Quote
+
+> *"Beautiful code is short and concise, so if you were to give that code to another programmer they would say, 'oh, that's well written code.' It's much like as if you were writing a poem."*
+>
+> — [Santiago Gonzalez](https://github.com/sgonzalez)
+
 #Always-building  #Always-shipping
-
-
